@@ -1,5 +1,7 @@
+---
 layout: page
-title: "Portflio"
+title: Portfolio
 permalink: /portfolio/
+---
 
-My portfolio
+This is my portfolio
