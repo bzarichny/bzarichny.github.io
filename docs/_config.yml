@@ -21,7 +21,7 @@
 title: Ben Zarichny
 email: bzarichny@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ben Zarichny Personal Website. Data science,Python, SQL.
+  Ben Zarichny Personal Website. Data Science, Python, SQL.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: benzarichny
